@@ -1,0 +1,9 @@
+Voici la compétition de IA.
+
+Ce sera en javascript (YEAH !!!!!!!!)
+
+
+Ca sera un petit jeu de Tron dont vous allez devoir écrire une IA pour battre vos adversaires. Il suffit de modifier dans le fichier gameEngine.js , vous construisez une IA meilleur que randomAi() et dans la fonction gameManager()  vous attribuer une IA à chacun des joueurs pour les tester. Mais d'abort consulter le programme et regarder comment il fonctionne.
+
+Bonne Chance !
+

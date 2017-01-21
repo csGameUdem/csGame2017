@@ -1,0 +1,61 @@
+Épreuves de Software Engineering ( En java ou python ou c++ )
+
+La caisse d'épicerie -----------------------------------------------------
+
+Avez-vous déjà travailler dans une épicerie ? Si oui  vous savez quel
+est le système utilisé. Dans cette épreuve il suffira de
+reproduire ce système. Voici les spécifications pour le projet.
+
+
+Il faudra faire un interface graphique qui simulera l'interface que
+les caissier verrons. Donc  à la place d'avoir un scanner il entrera
+un code d'article de 5 chiffres. Il devra aussi se connecter a son compte.
+
+Les options du programme devra effectuer ces opérations.
+
+    - Sign in pour les caissier
+    - Scanner une produits ( rajouter à la facture )
+    - Annuler un article ( enlever un article )
+    - Imposer un prix  ( mettre un prix différents pour l'article )
+    - Suspendre une facture
+    - Reprendre la facture
+    - Payer argent
+    - Payer debit
+
+    Payer argent créera un fichier qui sera la facture du client.
+    Il dira aussi le nombre d'argent que le caissier doit remettre
+    au client.
+
+    Payer debit créera un fichier qui sera la facture du client
+
+
+
+Il devra aussi avoir un compte opérateur qui pourra manipuler
+les articles, caissier , les codes. Il pourra imprimer des rapport
+concernant les articles vendus par les caissiers ou les codes.
+
+Vous devez aussi créer une base de données avec sql ou autre chose
+qui contiendra les éléments suivant.
+
+- Les factures
+- Les articles
+- Les codes
+- Les comptes des caissiers ( numéro de compte et mot de passe )
+
+
+Pour cette épreuves il serait bien de soumettre un diagram uml.
+Vous pouvez me le remettre en format papier en personne.
+
+Apart les contraintes ci-dessus , le projet est totalement libre.
+
+
+Logiciel pour organiser un horaire --------------------------------------
+
+Construire un logiciel pour organiser un horaire selon plusieurs
+horaire données. Donc il prendrais un nombre arbritraire d'horaire et
+il afficherait les plages horaires compatibles. Il faut une interface
+graphique.
+
+Faite moi un Tamagochi ------------------------------------------------
+
+Chercher c'est quoi un tamagochi et faite le  :) 

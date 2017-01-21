@@ -1,0 +1,27 @@
+Épreuves de Software Engineering ( En java ou python ou c++ )
+
+La caisse d'épicerie
+
+Avez-vous déjà travailler dans une épicerie vous savez quel est le
+système utilisé. Dans cette épreuve il suffira de reproduire ce système.
+Voici les spécifications pour le projet.
+
+Il faudra faire un interface graphique qui simulera l'interface que les caissier verrons. Donc  à la place d'avoir un scanner il entrera un code d'article de 5 chiffres.
+
+Les options du programme devra effectuer ces opérations.
+
+    - Scanner une produits ( rajouter à la facture )
+    - Annuler un article ( enlever un article )
+    - Imposer un prix  ( mettre un prix différents pour l'article )
+    - Suspendre une facture
+    - Reprendre la facture
+    - Payer argent
+    - Payer debit
+
+    Payer argent créera un fichier qui sera la facture du client.
+    Il dira aussi le nombre d'argent que le caissier doit remettre
+    au client.
+
+
+    
+    
