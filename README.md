@@ -32,14 +32,14 @@ courriel à cette adresse
 
 csgameudem@gmail.com
 
-avec votre nom , une description de vos aptitude ou simplement de votre
-détermination. Je me baserai sur cette liste pour former l'équipe.
+avec votre nom , votre courriel, une description de vos aptitude ou simplement de votre détermination. Je me baserai sur cette liste pour former l'équipe.
 
 
 2. Si vous avez faite une épreuve répondez àu courriel précedent en y incluant votre épreuve.
 
 
 Bonne chance !
+Vous avez deux semaines pour compléter le maximum d'épreuves.
 
 Si vous voulez des informations sur les csGame vous pouvez aller sur
 
